@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>16-GenericTypesCollections</id>
+    <version>1.0.0</version>
+    <authors>16-GenericTypesCollections</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="02f13dd9bc555bf81fb261003dabae729f9d70e2" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Desktop\BPA-203\16-GenericTypesCollections\bin\Debug\net8.0\16-GenericTypesCollections.runtimeconfig.json" target="lib\net8.0\16-GenericTypesCollections.runtimeconfig.json" />
+    <file src="C:\Users\User\Desktop\BPA-203\16-GenericTypesCollections\bin\Debug\net8.0\16-GenericTypesCollections.dll" target="lib\net8.0\16-GenericTypesCollections.dll" />
+  </files>
+</package>
