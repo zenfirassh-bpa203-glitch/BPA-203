@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Proniaproject\\Proniaproject\\Proniaproject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\BPA-203\\34-Front_To_BackSqlConnection\\Proniaproject\\Proniaproject\\Proniaproject.csproj",
       "projectName": "Proniaproject",
-      "projectPath": "C:\\Users\\User\\Desktop\\Proniaproject\\Proniaproject\\Proniaproject.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\BPA-203\\34-Front_To_BackSqlConnection\\Proniaproject\\Proniaproject\\Proniaproject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Proniaproject\\Proniaproject\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\BPA-203\\34-Front_To_BackSqlConnection\\Proniaproject\\Proniaproject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
